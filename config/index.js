@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oC3ud6S4ZntozAhYgRYeq75q_zPU",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "PTbHYsjiEcpdw6yjOxGnFcbiVEYmzRI_rnbvf4lqrk8",
+      useTemplateId: "u-pWZEwG3Y1EflON_dXkfrbS_TNVuY1Ct7H4tcV7Ckg",
       // 所在省份
       province: "北京",
       // 所在城市
@@ -81,7 +81,7 @@ export const USER_CONFIG = {
         {"type": "节日", "name": "感恩节", "year": "2022", "date": "11-24"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {"type": "生日", "name": "宝宝", "year": "2002", "date": "03-26"},
-        {"type": "节日", "name": "被搭讪纪念日", "year": "2022", "date": "07-30"},
+
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
@@ -208,7 +208,7 @@ export const USER_CONFIG = {
    * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-09-08"},
+    {"keyword": "love_day", date: "2022-07-30"},
     // 结婚纪念日
     {"keyword": "marry_day", date: "2022-09-09"},
     // 退伍日
