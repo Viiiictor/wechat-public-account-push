@@ -62,7 +62,7 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "宝宝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oC3ud6bMQ0fPVd7zxcDaBqHY60hI",
+      id: "C3ud6bMQ0fPVd7zxcDaBqHY60hI",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "ExVWICaF0TA5YkmWPP5B4MIRFmBTF6TGjae49L7l64g",
       // 所在省份
@@ -95,13 +95,13 @@ export const USER_CONFIG = {
     },
     {
       name: "老爸",
-      id: "",
-      useTemplateId: "FjNIGosafm9K47lOG0PBuTBOg8TcxUx008MhwSvblFA",
+      id: "oC3ud6dOkcqwMdc31PO5_BL2wg4M",
+      useTemplateId: "fWYcJ1RQNPfTPx1iGYlMbFF-6TvKWAaa4SknZ9S8sn8",
       province: "浙江",
       city: "丽水",
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      openUrl: "https://www.sina.com.cn/#/",
       festivals: [],
       customizedDateList: []
     },
