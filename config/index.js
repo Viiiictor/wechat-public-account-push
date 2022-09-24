@@ -62,7 +62,7 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "宝宝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "C3ud6bMQ0fPVd7zxcDaBqHY60hI",
+      id: "oC3ud6bMQ0fPVd7zxcDaBqHY60hI",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "ExVWICaF0TA5YkmWPP5B4MIRFmBTF6TGjae49L7l64g",
       // 所在省份
@@ -96,25 +96,25 @@ export const USER_CONFIG = {
     {
       name: "老爸",
       id: "oC3ud6dOkcqwMdc31PO5_BL2wg4M",
-      useTemplateId: "fWYcJ1RQNPfTPx1iGYlMbFF-6TvKWAaa4SknZ9S8sn8",
+      useTemplateId: "mPR8OL-DG6KxgWjgwQd6QaA4LfnyfasbHeCEIk26jE8",
       province: "浙江",
       city: "丽水",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      horoscopeDate: '4-03',
+      horoscopeDateType: '今日',
       openUrl: "https://www.sina.com.cn/#/",
-      festivals: [],
+      festivals: [{"type": "生日", "name": "老爸", "year": "1971", "date": "04-03"}],
       customizedDateList: []
     },
     {
       name: "老妈",
-      id: "",
-      useTemplateId: "4hxunmkPUHB64n1_zmowLw1ljf54sRbqyzKNGKBp9mU",
+      id: "oC3ud6dZ1euE1PLUSxxhlwOqrcrQ",
+      useTemplateId: "nRC5XAR8mqz0B0fGHc96GvIMmuDPkHr2duuNr1HER6s",
       province: "浙江",
       city: "丽水",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
+      horoscopeDate: '10-29',
+      horoscopeDateType: '今日',
+      openUrl: "https://www.sina.com.cn/#/",
+      festivals: [{"type": "生日", "name": "老妈", "year": "1974", "date": "10-29"}],
       customizedDateList: []
     },
     {
